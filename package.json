@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "package-json": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.9"
+  }
+}
